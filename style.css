@@ -1,0 +1,214 @@
+h1 {
+  color: white;
+  font-family: Rock Salt;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: Pacifico;
+  color: orange;
+}
+
+h3 {
+  font-family: Rock Salt;
+  text-align: center;
+  color: white;
+  padding-bottom: 40px;
+  padding-top: 0px;
+  text-shadow: 2px 2px 8px #000000;
+  font-size: 20px;
+}
+
+p {
+  font-family: Questrial;
+  font-size: 20px;
+  text-indent: 30px;
+  color: white;
+}
+
+.title {
+  padding-top: 200px;
+  /* background-image: url("http://imagizer.imageshack.us/a/img923/4943/YC41SX.gif");
+  background-size: 100% 100%; */
+  background-image: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/05/Gif-Wallpapers-7.jpg");
+  background-size: cover;
+  height: 1080px;
+}
+
+.social-bar {
+  padding-top: -px;
+}
+
+.container-fluid {
+  margin-top: -20px;
+  margin-left: -20px;
+  margin-right: -20px;
+  background-image: url("https://wallpaperscraft.com/image/milky_way_stars_space_nebula_68885_1920x1080.jpg");
+  background-size: cover;
+}
+
+.btn-primary {
+  font-family: Questrial;
+  font-size: 10px;
+  color: white;
+  font-weight: bold;
+  background-color: transparent;
+  border: 0;
+}
+
+.btn-secondary {
+  font-family: Questrial;
+  font-size: 16px;
+  color: white;
+  background-color: transparent;
+}
+
+.nav {
+  font-family: Questrial;
+  font-size: 18px;
+  color: white;
+  background-color: transparent;
+  margin-top: 20px;
+}
+
+img {
+  min-width: 1280px;
+}
+
+.introduction {
+  background-image: url("https://wallpaperscraft.com/image/milky_way_stars_space_nebula_68885_1920x1080.jpg");
+  height: 1080px;
+  background-size: cover;
+}
+
+.profile {
+  width: 250px;
+  height: 250px;
+  border-radius: 250px;
+  background-color: red;
+  opacity: .95;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-image: url("https://imagizer.imageshack.us/v2/736x726q90/923/Ui0Baz.jpg");
+  background-size: 100%;
+}
+
+.resume {
+  width: 300px;
+  height: 390px;
+  background-color: white;
+  background-image: url("http://i709.photobucket.com/albums/ww99/saxal28/Screenshot_zps2pwtvrsb.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.page {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+.portfolio-img-title {
+  font-size: 20px;
+  font-family: Questrial;
+  colorl: black;
+  text-align: center;
+  background-color: white;
+  opacity: .9
+}
+
+.portfolio-img {
+  width: 400px;
+  height: 250px;
+  background-color: transparent;
+  padding-left: 10px;
+}
+
+.first-img {
+  background-image: url("http://i709.photobucket.com/albums/ww99/saxal28/S9YQpYg_zpsdaezorf0.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.second-img {
+  background-image: url("https://lh3.googleusercontent.com/VZcf9g6hMyJ9lDQqxFkDxd_594bDxIStzLr0N7P-6QZldKCpZdpJxKYLuIzbdChFwWde3Ku9ptPo84-Z7r3XMmLltfPhPnSr1FPYKg0YZV2tYJ4sbTFlJQNFtiAM2I64ysG-8Rffr5EQQ3t26dxN6rtNb-mivfjPdnjSww0jlEi3thM-lYXorOJJGvDtHNgsLvpNYUDaV3vtQvR9OJCOZ9L9In13YNeKZyj0m-wUCLSfqgngxkyJnVE1qr-HuVz8alMIMnxtjuej_OVv3D_uoY4TkqYv_HHjXNHSQZmCsMjEP3eySPvp0NxT38_3Kj4Mm0unN_nGSrCF7qsB27mxr6YnYC4JDaAH_w9W0guCHbmJU3s9NPP7cutfq01wTvdeIbRCSVqNK8As4_CYZmYsVGJED1qLnm50sHTuIOqH_llRDtUbZwxKnYRAj33s8XEUtnRNC55A0CiRyToDPq-3nJNEY-uW1qxmINrfd1VdDRt_T0CxzpqI1wuBP0-HWb8H_CNNNCJTHnlL-LMz25Sy-aJN_WZ7kLVykRNZTDvziUlEc3nX9G8Qnr3WZ9NdfuwqNgV3n11k40hgxCS33t51b5KnUsxrCBE=w480-h211-no");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.third-img {
+  background-image: url("http://i709.photobucket.com/albums/ww99/saxal28/6gCn4lZ%20-%20Imgur_zpsaudr6bxp.gif");
+}
+
+.fourth-img {
+  background-image: url("http://i709.photobucket.com/albums/ww99/saxal28/6gCn4lZ%20-%20Imgur_zpsaudr6bxp.gif");
+}
+
+.fifth-img {
+  background-image: url("http://i709.photobucket.com/albums/ww99/saxal28/6gCn4lZ%20-%20Imgur_zpsaudr6bxp.gif");
+}
+
+.sixth-img {
+  background-image: url("http://i709.photobucket.com/albums/ww99/saxal28/6gCn4lZ%20-%20Imgur_zpsaudr6bxp.gif");
+}
+
+.portfolio {
+  background-image: url("https://wallpaperscraft.com/image/milky_way_stars_space_nebula_68885_1920x1080.jpg");
+  height: 1080px;
+}
+
+.portfolio-container {
+  height: 660px;
+  width: 900px;
+  opacity: .8;
+  padding: 40px 40px 40px 40px;
+}
+
+.contact {
+  background-image: url("https://wallpaperscraft.com/image/milky_way_stars_space_nebula_68885_1920x1080.jpg");
+  height: 1080px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.textbox {
+  background-color: black;
+  opacity: 0.85;
+  height: 160px;
+  width: 1400px;
+  padding-top: 30px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+}
+
+.subtitle {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: Rock Salt;
+  opacity: 0.9;
+}
+
+.contact-box {
+  height: 400px;
+  width: 800px;
+  padding-top: 0px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 30px;
+}
+
+.form-control {
+  background-color: black;
+  font-family: Questrial;
+  padding-left: 15px;
+  font-size: 25px;
+  height: 50px;
+}
